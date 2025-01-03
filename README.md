@@ -16,3 +16,11 @@ and then you can run the code by using the following command:
 ```
 bash run.sh
 ```
+
+## References
+
+### Paper
+Nguyen, E., Ruffolo, J. A., Lam, J. H., Chirikjian, J. G., Sundaram, R., Yang, K. K., & Church, G. M. (2024). Sequence modeling and design from molecular to genome scale with Evo. *Science*, 386(6723), eado9336.
+
+### Original Repository
+[Evo Model Repository](https://github.com/evo-design/evo)
